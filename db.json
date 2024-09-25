@@ -1,0 +1,380 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Men's Shoes",
+      "products": [
+        {
+          "id": 105,
+          "name": "Casual Sneakers",
+          "brand": "Adidas",
+          "description": "Trendy casual sneakers for everyday wear.",
+          "price": "1999",
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "Green",
+            "Pink",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-007-600x600.jpg",
+          "inStock": false,
+          "quantity": 1,
+          "category": "Men, Running",
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus. Eget odio justo ut scelerisque purus non aliquam adipiscing amet condimentum ligula diam erat sodales pharetra accumsan pellentesque at sem at eget ac hendrerit odio enim felis sit augue lorem egestas dictum vestibulum a etiam nisi, elit augue volutpat porta scelerisque nullam at leo faucibus cursus metus. Viverra nunc iaculis id sed diam nam quam id sapien pellentesque quam sed eu augue id ac tempus aliquam facilisis vivamus eget nisi id.",
+          "categoryId": "1"
+        },
+        {
+          "id": 106,
+          "name": "Men’s Navy Running",
+          "brand": "Asics",
+          "description": "Performance running shoes with superior cushioning.",
+          "price": "1199",
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "Blue",
+            "Black",
+            "Navy Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-008.jpg",
+          "inStock": true,
+          "quantity": 1,
+          "category": "Men, Running",
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus. Eget odio justo ut scelerisque purus non aliquam adipiscing amet condimentum ligula diam erat sodales pharetra accumsan pellentesque at sem at eget ac hendrerit odio enim felis sit augue lorem egestas dictum vestibulum a etiam nisi, elit augue volutpat porta scelerisque nullam at leo faucibus cursus metus. Viverra nunc iaculis id sed diam nam quam id sapien pellentesque quam sed eu augue id ac tempus aliquam facilisis vivamus eget nisi id.",
+          "categoryId": "1"
+        },
+        {
+          "name": "Men’s Black Running",
+          "brand": "Asics",
+          "price": "1999",
+          "description": "Performance running shoes with superior cushioning.",
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-005-600x600.jpg",
+          "sizes": [
+            "7",
+            "8",
+            "9"
+          ],
+          "colors": [],
+          "inStock": true,
+          "quantity": "1",
+          "category": "Men",
+          "about": "Performance running shoes with superior cushioning.",
+          "id": 1726122435174,
+          "categoryId": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Women's Shoes",
+      "products": [
+        {
+          "id": 207,
+          "name": "Women’s Cream Suede",
+          "brand": "Steve Madden",
+          "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet.",
+          "price": 1199,
+          "sizes": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "colors": [
+            "Gold",
+            "Silver",
+            "Black"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-015-600x600.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "1"
+        },
+        {
+          "id": 204,
+          "name": "Women’s Choco City Run",
+          "brand": "Sperry",
+          "description": "Comfortable and stylish loafers for everyday wear.",
+          "price": 999,
+          "sizes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "colors": [
+            "Green",
+            "Navy",
+            "Gray"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-013-600x600.jpg",
+          "inStock": false,
+          "category": "Running, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 208,
+          "name": "Women’s Green Training",
+          "brand": "Adidas",
+          "description": "Trendy casual sneakers for everyday wear.",
+          "price": 1299,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "Green",
+            "Pink",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-001-600x600.jpg",
+          "inStock": false,
+          "category": "Training, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 209,
+          "name": "Women’s Mint Sneaker",
+          "brand": "Asics",
+          "description": "Performance running shoes with superior cushioning.",
+          "price": 1199,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "Purple",
+            "Black",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-010-600x600.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 210,
+          "name": "Women’s Orange Sneaker",
+          "brand": "Asics",
+          "description": "Auctor eros suspendisse tellus venenatis sodales.",
+          "price": 1299,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "orange",
+            "Black",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-009-600x600.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 211,
+          "name": "Women’s Peach Training",
+          "brand": "Asics",
+          "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet.",
+          "price": 1499,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "peach",
+            "Black",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-004.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 212,
+          "name": "Women’s Pink Suede",
+          "brand": "Asics",
+          "description": "Auctor eros suspendisse tellus venenatis sodales purus.",
+          "price": 1099,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "pink",
+            "Black",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-016.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "2"
+        },
+        {
+          "id": 213,
+          "name": "Women’s Pink Training",
+          "brand": "Asics",
+          "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet.",
+          "price": 1499,
+          "sizes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "colors": [
+            "pink",
+            "Black",
+            "Blue"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-002.jpg",
+          "inStock": true,
+          "category": "Training, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus. Designed with the active woman in mind, these shoes offer unparalleled comfort and support, perfect for intense training sessions or casual wear. Eget odio justo ut scelerisque purus non aliquam adipiscing amet condimentum ligula diam erat sodales pharetra accumsan pellentesque at sem at eget ac hendrerit odio enim felis sit augue lorem egestas dictum vestibulum a etiam nisi, elit augue volutpat porta scelerisque nullam at leo faucibus cursus metus. The breathable fabric ensures your feet stay cool, while the durable sole provides excellent traction on any surface. Viverra nunc iaculis id sed diam nam quam id sapien pellentesque quam sed eu augue id ac tempus aliquam facilisis vivamus eget nisi id. Experience the perfect blend of style and performance with these versatile trainers.",
+          "categoryId": "2"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "",
+      "address": "123 Main St, City",
+      "password": "1234",
+      "isAdmin": true,
+      "cart": []
+    },
+    {
+      "id": "f979",
+      "name": "deepak",
+      "email": "deepak@gmail.com",
+      "phone": "95255421",
+      "password": "3150",
+      "isAdmin": false,
+      "cart": [
+        {
+          "id": 206,
+          "name": "Women’s Blue Training",
+          "brand": "Nike",
+          "description": "Lightweight running sneakers designed for maximum comfort.",
+          "price": 1299,
+          "sizes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "colors": [
+            "Red",
+            "Blue",
+            "Black"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-003-600x600.jpg",
+          "inStock": true,
+          "category": "Training, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus."
+        }
+      ],
+      "order": [],
+      "address": "dfdf cff frfedd",
+      "orders": []
+    },
+    {
+      "id": "32f1",
+      "name": "Bot",
+      "email": "bot@gmail.com",
+      "password": "3216",
+      "cart": [],
+      "order": [],
+      "phone": "000000000",
+      "address": "America "
+    },
+    {
+      "id": "018b",
+      "name": "Demo2",
+      "email": "demo2@gmail.com",
+      "password": "1111",
+      "cart": [
+        {
+          "id": 207,
+          "name": "Women’s Cream Suede",
+          "brand": "Steve Madden",
+          "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet.",
+          "price": 1199,
+          "sizes": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "colors": [
+            "Gold",
+            "Silver",
+            "Black"
+          ],
+          "imageUrl": "https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-product-image-015-600x600.jpg",
+          "inStock": true,
+          "category": "Sneaker, Women",
+          "quantity": 1,
+          "about": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu, enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim eget eu et lobortis faucibus.",
+          "categoryId": "1"
+        }
+      ],
+      "order": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+ // axios.delete(`http://localhost:8000/categories/${productId}`)
+    //   .then(() =>{setProducts(products.filter(products => products.id !== productId))} )
+    //   .catch((error) => console.error('Error deleting product:', error));
+    //   console.log(productId)
+    //   console.log(categoryId)
+
+
+
+
+
+   //  const handleDelete = (productId, categoryId) => {
+   
+
+   //    const deleteddata = products.filter(
+   //      (products) => products.id !== productId
+   //    );
+   //    setProducts(deleteddata);
+   //    console.log(deleteddata);
+   //    axios
+   //    .patch(`http://localhost:8000/categories/${categoryId}/products/${productId}` , {products: deleteddata})
+   //    .then(() => {
+   //      toast.success("Product removed from server");
+   //    })
+   //    .catch((err) => {
+   //      toast.error(`Failed to remove product from server: ${err.message}`);
+   //    });
+   //  };
